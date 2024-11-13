@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>程序学习</title>
+      <link href="/2024/11/13/%E7%A8%8B%E5%BA%8F%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2024/11/13/%E7%A8%8B%E5%BA%8F%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<p>   小程序基础的学习：<br>小程序分为主题文件跟页面文件<br>主体文件分为三部分<br>1.App.js：入口文件<br>2. app.Jason: 小程序的全局配置文件<br>3. app.Wxss 小程序的全局样式<br><img src="/img_1.png" alt="img_1.png"><br>  页面文件：<br>每个页面需要文件存放在pages下</p><p>1</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/09/10/hello-world/"/>
       <url>/2024/09/10/hello-world/</url>

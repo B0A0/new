@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>文章语法</title>
+      <link href="/2024/11/15/%E6%96%87%E7%AB%A0%E8%AF%AD%E6%B3%95/"/>
+      <url>/2024/11/15/%E6%96%87%E7%AB%A0%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<ol><li><h1 id="基础用法"><a href="#基础用法" class="headerlink" title="基础用法"></a>基础用法</h1></li></ol><ul><li>引用链接<a href=""></a>  可以引用该链接下的网址、图片等  图片的话要！<a href=""></a></li><li>段落标题  “#”  井号的个数代表几级标题</li><li>列清单  有序：直接写数字  无序“-”加一个空格 </li><li>强调   斜体为* *  引用  加粗为** **引用 ***为斜粗  快捷键Ctrl+B&#x2F;I</li><li></li><li>引用 &gt; 加入引用内容  可以多级引用</li><li>分割线 —  ***</li><li>下划线 <u>    </u></li><li>代码  一行<code> </code>   一块 &#96;&#96;&#96;</li><li>脚注  在后面加[^1]  [^!]: 脚注内容</li><li>特殊符号  直接在符号前面加上\</li></ul><ol start="2"><li><h1 id="高级用法"><a href="#高级用法" class="headerlink" title="高级用法"></a>高级用法</h1></li></ol><p>- </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>程序学习</title>
       <link href="/2024/11/13/%E7%A8%8B%E5%BA%8F%E5%AD%A6%E4%B9%A0/"/>
       <url>/2024/11/13/%E7%A8%8B%E5%BA%8F%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<p>   小程序基础的学习：<br>小程序分为主题文件跟页面文件<br>主体文件分为三部分<br>1.App.js：入口文件<br>2. app.Jason: 小程序的全局配置文件<br>3. app.Wxss 小程序的全局样式<br><img src="/img_1.png" alt="img_1.png"><br>  页面文件：<br>每个页面需要文件存放在pages下</p><p>1</p>]]></content>
+        <content type="html"><![CDATA[<p>   小程序基础的学习：<br>小程序分为主题文件跟页面文件<br>主体文件分为三部分<br>1.App.js：入口文件<br>2. app.Jason: 小程序的全局配置文件<br>3. app.Wxss 小程序的全局样式<br><img src="/img_1.png" alt="img_1.png"><br>  页面文件：<br>每个页面需要文件存放在pages下<br>一个页面一个文件夹<br>每个页面通常由四个文件组成<br><img src="/img_2.png" alt="img_2.png"><br>注意事项  .js文件和.wxml文件是必须的</p><p>1</p>]]></content>
       
       
       
